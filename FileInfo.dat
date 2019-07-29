@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="DB.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/27/2019 08:25:02</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="AIA_Validation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:21:06</Property>
+      <Property Name="RunDuration">00:02:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="File_Transfer.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:20:51</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ErrorFilesCreation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:21:03</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Starting_Process_FileTransfering.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:21:11</Property>
+      <Property Name="RunDuration">00:02:18</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Starting_Process.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:21:09</Property>
+      <Property Name="RunDuration">00:02:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Unwanted_Column_Deletion.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/06/2019 17:06:42</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="F1Creation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/06/2019 16:58:46</Property>
+      <Property Name="RunDuration">00:01:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Interupted_File_Founder.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:21:12</Property>
+      <Property Name="RunDuration">00:02:21</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="test.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/04/2019 14:34:04</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="test12.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/10/2019 11:32:54</Property>
+      <Property Name="RunDuration">00:04:47</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RowAndAmount_Counter.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:19:30</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Sucessfull _AND_Error_Counter.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/20/2019 09:20:46</Property>
+      <Property Name="RunDuration">00:00:57</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
