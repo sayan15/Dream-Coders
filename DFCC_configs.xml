@@ -1,0 +1,14 @@
+<Processes>
+
+	<From_Email>
+   		 <value>dfcc.rpa@dfccbank.com</value>
+	</From_Email>
+
+	<To_Email>
+    		<value>kaushal.demeraal@dfccbank.com;tharindu.maduranga@dfccbank.com;nayani.weerasinghe@dfccbank.com;arun.prasad@ipotenza.com;saliya.desilva@dfccbank.com</value>
+	</To_Email>
+
+</Processes>
+
+
+
